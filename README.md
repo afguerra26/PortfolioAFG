@@ -1,1 +1,247 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Andrés Guerra</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
 
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 30px 0;
+        }
+
+        .avatar img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+        }
+
+        h1 {
+            margin-top: 10px;
+        }
+
+        .section {
+            padding: 20px;
+            text-align: center;
+        }
+
+        .projects {
+            max-width: 800px;
+            margin: auto;
+        }
+
+        .project {
+            background-color: white;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+            text-align: left;
+        }
+
+        .project a {
+            display: inline-block;
+            margin-top: 8px;
+            color: #333;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="avatar">
+            <img src="man-medium-dark-skin-tone-bald_1f468-1f3fe-200d-1f9b2.png" alt="Foto de Andrés">
+        </div>
+        <h1>Andrés Guerra</h1>
+        <p>Desarrollador en formación</p>
+    </header>
+
+    <section class="section">
+        <h2>Bienvenido a mi portfolio</h2>
+        <p>Aquí encontrarás algunos de mis proyectos y ejercicios de programación.</p>
+    </section>
+
+    <section class="section">
+        <h2>Mis proyectos</h2>
+
+        <div class="projects">
+
+            <div class="project">
+                <h3>M1S1</h3>
+                <p>Primer módulo con ejercicios básicos de programación.</p>
+                <a href="https://github.com/afguerra26/-M1S1" target="_blank">Ver proyecto</a>
+            </div>
+
+            <div class="project">
+                <h3>Ejercicios1Python</h3>
+                <p>Ejercicios simples en Python para practicar lógica.</p>
+                <a href="https://github.com/afguerra26/Ejercicios1Python" target="_blank">Ver proyecto</a>
+            </div>
+
+            <div class="project">
+                <h3>Ejercicios2Python</h3>
+                <p>Segunda parte de ejercicios en Python con funciones.</p>
+                <a href="https://github.com/afguerra26/Ejercicios2Python" target="_blank">Ver proyecto</a>
+            </div>
+
+            <div class="project">
+                <h3>Menú de animales</h3>
+                <p>Proyecto pequeño con un menú interactivo.</p>
+                <a href="https://github.com/afguerra26/Menu_animales" target="_blank">Ver proyecto</a>
+            </div>
+
+            <div class="project">
+                <h3>M1S2</h3>
+                <p>Segundo módulo con ejercicios más avanzados.</p>
+                <a href="https://github.com/afguerra26/M1S2" target="_blank">Ver proyecto</a>
+            </div>
+
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Andrés Guerra</p>
+    </footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Andrés Guerra</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 30px 0;
+        }
+
+        .avatar img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+        }
+
+        h1 {
+            margin-top: 10px;
+        }
+
+        .section {
+            padding: 20px;
+            text-align: center;
+        }
+
+        .projects {
+            max-width: 800px;
+            margin: auto;
+        }
+
+        .project {
+            background-color: white;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+            text-align: left;
+        }
+
+        .project a {
+            display: inline-block;
+            margin-top: 8px;
+            color: #333;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="avatar">
+            <img src="man-medium-dark-skin-tone-bald_1f468-1f3fe-200d-1f9b2.png" alt="Foto de Andrés">
+        </div>
+        <h1>Andrés Guerra</h1>
+        <p>Desarrollador en formación</p>
+    </header>
+
+    <section class="section">
+        <h2>Bienvenido a mi portfolio</h2>
+        <p>Aquí encontrarás algunos de mis proyectos y ejercicios de programación.</p>
+    </section>
+
+    <section class="section">
+        <h2>Mis proyectos</h2>
+
+        <div class="projects">
+
+            <div class="project">
+                <h3>M1S1</h3>
+                <p>Primer módulo con ejercicios básicos de programación.</p>
+                <a href="https://github.com/afguerra26/-M1S1" target="_blank">Ver proyecto</a>
+            </div>
+
+            <div class="project">
+                <h3>Ejercicios1Python</h3>
+                <p>Ejercicios simples en Python para practicar lógica.</p>
+                <a href="https://github.com/afguerra26/Ejercicios1Python" target="_blank">Ver proyecto</a>
+            </div>
+
+            <div class="project">
+                <h3>Ejercicios2Python</h3>
+                <p>Segunda parte de ejercicios en Python con funciones.</p>
+                <a href="https://github.com/afguerra26/Ejercicios2Python" target="_blank">Ver proyecto</a>
+            </div>
+
+            <div class="project">
+                <h3>Menú de animales</h3>
+                <p>Proyecto pequeño con un menú interactivo.</p>
+                <a href="https://github.com/afguerra26/Menu_animales" target="_blank">Ver proyecto</a>
+            </div>
+
+            <div class="project">
+                <h3>M1S2</h3>
+                <p>Segundo módulo con ejercicios más avanzados.</p>
+                <a href="https://github.com/afguerra26/M1S2" target="_blank">Ver proyecto</a>
+            </div>
+
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Andrés Guerra</p>
+    </footer>
+
+</body>
+</html>
